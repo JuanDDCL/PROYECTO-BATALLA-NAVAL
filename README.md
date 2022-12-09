@@ -1,5 +1,5 @@
-# PROYECTO-UNO
-Proyecto de juego "UNO"
+# PROYECTO-BATALLA NAVAL
+Proyecto de juego "NAVAL"
 Córdoba López Juan de Dios
 ingeniería en Software
 Grupo: 1122
